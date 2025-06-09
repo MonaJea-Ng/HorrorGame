@@ -27,21 +27,25 @@ The player uses their flashlight to navigate through the dark forest, searching 
 <details>
   <summary>At Dusk</summary>
   <br>  
+  
   ![Game Start](https://github.com/user-attachments/assets/15a5d2fc-793f-4d3a-a4c2-457b7aa1c20b)
 </details>
 <details>
   <summary>Flashlight On</summary>
  <br>  
+  
   ![View at Night](https://github.com/user-attachments/assets/c042d64d-ecc2-4c4b-bf35-cdb1240aecbb)
 </details>
 <details>
   <summary>Collectible Item</summary>
  <br>  
+  
   ![Cube](https://github.com/user-attachments/assets/9f8951d2-00bb-4b91-882a-ff912e3f0ddf)
 </details>
 <details>
   <summary>Skeleton Enemy AI</summary>
  <br>  
+  
   ![Skeleton AI](https://github.com/user-attachments/assets/44e48f8c-54c1-4f87-a790-6f6716eb2526)
 </details>
 
